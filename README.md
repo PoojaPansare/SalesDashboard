@@ -36,19 +36,6 @@ Dataset Source
 
 The dataset used in this project was sourced from Kaggle. You can access it here.
 
-How to Use the Dashboard
-
-Clone this repository:
-
-git clone https://github.com/your-username/Zomato-Power-BI-Dashboard.git
-
-Open the .pbix file in Power BI Desktop.
-
-Explore the dashboard:
-
-Use filters to navigate through countries, cities, and specific metrics.
-
-Analyze top-performing and underperforming restaurants.
 
 Project Structure
 
@@ -84,7 +71,7 @@ Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
-Email: your-email@example.com
+Email: your-pansarepooja64@gmail.com
 
 LinkedIn: Your Profile
 
